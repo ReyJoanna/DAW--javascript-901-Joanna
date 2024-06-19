@@ -1,0 +1,12 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JS para la materia de desarrollo de aplicaciones web",
+  "main": "index.js",
+  "scripts": {
+    "Nombre": "Joanna Reyes",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abad",
+  "license": "ISC"
+}
